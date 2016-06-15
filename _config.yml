@@ -1,6 +1,6 @@
 name: VRBLE
 favicon: null
-layout_spectrum: 0.007862423080950975
+layout_spectrum: 1
 typography_spectrum: 0.7359588344115764
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.1203578773420304
-  lightness: 0.04211260890588164
-  saturation: 0.07807105919346213
-  rhythmicContrast: 0.5048781791701913
+    - '#4c7d7e'
+    - '#70a09f'
+    - '#97bebd'
+    - '#0c0f16'
+    - '#c2dcd7'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0
 purpose: []
