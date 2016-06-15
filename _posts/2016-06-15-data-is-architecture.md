@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Data is Architecture
-datePublished: '2016-06-15T03:38:35.400Z'
-dateModified: '2016-06-15T03:38:09.546Z'
+datePublished: '2016-06-15T04:05:56.702Z'
+dateModified: '2016-06-15T04:05:56.337Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-15-data-is-architecture.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-15-data-is-architecture.md
 url: data-is-architecture/index.html
 _type: Article
 
